@@ -4,7 +4,7 @@ Hill Climb Racing Game Using Hand Gestures
 
 A real-time gesture-controlled version of the Hill Climb Racing game built using Python, OpenCV, MediaPipe, and Pynput. This project replaces traditional keyboard controls with hand gestures detected through a webcam, creating an interactive and touchless gaming experience using computer vision.
 
-🚀 Features
+🚀 Features 
 🎮 Control the game using hand gestures
 📷 Real-time hand tracking using webcam
 ✋ Gesture recognition with MediaPipe
