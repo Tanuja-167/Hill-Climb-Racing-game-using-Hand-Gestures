@@ -37,7 +37,7 @@ Pynput simulates keyboard arrow key presses based on the detected gesture.
 📂 Project Structure
 Hill-Climb-Racing-Hand-Gesture/
 │
-├── main.py
+├── main.py 
 ├── README.md
 └── requirements.txt
 ▶️ Installation & Setup
